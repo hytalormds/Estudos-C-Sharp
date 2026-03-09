@@ -2,36 +2,31 @@
 {
     public static void Main()
     {
-        Console.WriteLine("Quantos números você deseja digitar?");
-        int tamanho = int.Parse(Console.ReadLine());
+        int[] numbers = InputNumbers();
+        InverterVetor(numbers);
+    }
+    public static int[] InputNumbers()
+    {
+        Console.WriteLine("Digite a quantidade de números: ");
+        int qtd = int.Parse(Console.ReadLine());
 
-        int[] numeros = new int[tamanho];
-        string op = "S";
-        int contador = 0;
+        int[] numbers = new int[qtd];
 
-        while (op.ToUpper() == "S" && contador < tamanho)
+        for (int i = 0; i < qtd; i++)
         {
-            Console.WriteLine("Digite um valor: ");
-            int n = int.Parse(Console.ReadLine());
-
-            numeros[contador] = n;
-            contador++;
-
-            if (contador < tamanho)
-            {
-                Console.WriteLine("Deseja continuar? [S/N]");
-                op = Console.ReadLine().ToUpper();
-            }
-            else
-            {
-                Console.WriteLine("O vetor já está cheio!");
-            }
+            Console.WriteLine($"Digite o número na posição {i + 1}: ");
+            numbers[i] = int.Parse(Console.ReadLine());
         }
+        return numbers;
+    }
 
-        Console.WriteLine("Números digitados:");
-        for (int i = tamanho; i < numeros.Length; i--)
+    public static void InverterVetor(int[] numbers)
+    {
+        Array.Reverse(numbers);
+
+        foreach (var item in numbers)
         {
-            Console.WriteLine(numeros[i]);
+            Console.WriteLine(item);
         }
     }
 }
