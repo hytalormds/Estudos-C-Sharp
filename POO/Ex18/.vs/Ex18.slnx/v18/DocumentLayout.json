@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex18\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF04D58-0BF3-4238-BBB4-BD3CB59666A8}|Ex18\\Ex18.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex18\\ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF04D58-0BF3-4238-BBB4-BD3CB59666A8}|Ex18\\Ex18.csproj|solutionrelative:ex18\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{1EF04D58-0BF3-4238-BBB4-BD3CB59666A8}|Ex18\\Ex18.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex18\\ex18\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1EF04D58-0BF3-4238-BBB4-BD3CB59666A8}|Ex18\\Ex18.csproj|solutionrelative:ex18\\triangulo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Triangulo.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex18\\Ex18\\Triangulo.cs",
+              "RelativeDocumentMoniker": "Ex18\\Triangulo.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex18\\Ex18\\Triangulo.cs",
+              "RelativeToolTip": "Ex18\\Triangulo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAABOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:51:58.968Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex18\\Ex18\\Program.cs",
+              "RelativeDocumentMoniker": "Ex18\\Program.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex18\\Ex18\\Program.cs",
+              "RelativeToolTip": "Ex18\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-22T13:51:13.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -3,16 +3,16 @@
   "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex14\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AA2EC299-D846-4256-973C-439FEC1A189B}|Ex14\\Ex14.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex14\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA2EC299-D846-4256-973C-439FEC1A189B}|Ex14\\Ex14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E358EB8-C39F-AE29-AC9B-629BAC95D206}|Ex14\\Ex14.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex14\\ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E358EB8-C39F-AE29-AC9B-629BAC95D206}|Ex14\\Ex14.csproj|solutionrelative:ex14\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA2EC299-D846-4256-973C-439FEC1A189B}|Ex14\\Ex14.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex14\\ex14\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA2EC299-D846-4256-973C-439FEC1A189B}|Ex14\\Ex14.csproj|solutionrelative:ex14\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E358EB8-C39F-AE29-AC9B-629BAC95D206}|Ex14\\Ex14.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex14\\ex14\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E358EB8-C39F-AE29-AC9B-629BAC95D206}|Ex14\\Ex14.csproj|solutionrelative:ex14\\estoque.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{AA2EC299-D846-4256-973C-439FEC1A189B}|Ex14\\Ex14.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex14\\ex14\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AA2EC299-D846-4256-973C-439FEC1A189B}|Ex14\\Ex14.csproj|solutionrelative:ex14\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7E358EB8-C39F-AE29-AC9B-629BAC95D206}|Ex14\\Ex14.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex14\\ex14\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7E358EB8-C39F-AE29-AC9B-629BAC95D206}|Ex14\\Ex14.csproj|solutionrelative:ex14\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -32,7 +32,7 @@
               "RelativeDocumentMoniker": "Ex14\\Produto.cs",
               "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex14\\Ex14\\Produto.cs",
               "RelativeToolTip": "Ex14\\Produto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAACAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAACAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T13:57:42.9Z",
               "EditorCaption": ""
@@ -45,7 +45,7 @@
               "RelativeDocumentMoniker": "Ex14\\Estoque.cs",
               "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex14\\Ex14\\Estoque.cs",
               "RelativeToolTip": "Ex14\\Estoque.cs",
-              "ViewState": "AgIAAAUAAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAA5AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T13:37:39.903Z",
               "EditorCaption": ""
@@ -58,7 +58,7 @@
               "RelativeDocumentMoniker": "Ex14\\Program.cs",
               "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex14\\Ex14\\Program.cs",
               "RelativeToolTip": "Ex14\\Program.cs",
-              "ViewState": "AgIAADEAAAAAAAAAAAAgwDwAAAApAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADwAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-19T13:36:07.009Z",
               "EditorCaption": ""

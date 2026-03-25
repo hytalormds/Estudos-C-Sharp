@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex21\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D60A2181-2931-474C-A018-3A3AF96612CD}|Ex21\\Ex21.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex21\\ex21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60A2181-2931-474C-A018-3A3AF96612CD}|Ex21\\Ex21.csproj|solutionrelative:ex21\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60A2181-2931-474C-A018-3A3AF96612CD}|Ex21\\Ex21.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex21\\ex21\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60A2181-2931-474C-A018-3A3AF96612CD}|Ex21\\Ex21.csproj|solutionrelative:ex21\\pedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D60A2181-2931-474C-A018-3A3AF96612CD}|Ex21\\Ex21.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex21\\ex21\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D60A2181-2931-474C-A018-3A3AF96612CD}|Ex21\\Ex21.csproj|solutionrelative:ex21\\itempedido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Pedido.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex21\\Ex21\\Pedido.cs",
+              "RelativeDocumentMoniker": "Ex21\\Pedido.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex21\\Ex21\\Pedido.cs",
+              "RelativeToolTip": "Ex21\\Pedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:03:34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ItemPedido.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex21\\Ex21\\ItemPedido.cs",
+              "RelativeDocumentMoniker": "Ex21\\ItemPedido.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex21\\Ex21\\ItemPedido.cs",
+              "RelativeToolTip": "Ex21\\ItemPedido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:04:11.074Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex21\\Ex21\\Program.cs",
+              "RelativeDocumentMoniker": "Ex21\\Program.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex21\\Ex21\\Program.cs",
+              "RelativeToolTip": "Ex21\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T16:02:37.981Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
