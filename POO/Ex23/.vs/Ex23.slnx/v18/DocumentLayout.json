@@ -3,20 +3,20 @@
   "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex23\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{17355C55-0A6F-4022-AD2E-7258F12176DE}|Ex23\\Ex23.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex23\\ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17355C55-0A6F-4022-AD2E-7258F12176DE}|Ex23\\Ex23.csproj|solutionrelative:ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16668C6C-A75D-0509-12D0-AE1AA6EF1F35}|Ex23\\Ex23.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex23\\ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16668C6C-A75D-0509-12D0-AE1AA6EF1F35}|Ex23\\Ex23.csproj|solutionrelative:ex23\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17355C55-0A6F-4022-AD2E-7258F12176DE}|Ex23\\Ex23.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex23\\ex23\\ifrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17355C55-0A6F-4022-AD2E-7258F12176DE}|Ex23\\Ex23.csproj|solutionrelative:ex23\\ifrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16668C6C-A75D-0509-12D0-AE1AA6EF1F35}|Ex23\\Ex23.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex23\\ex23\\ifrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16668C6C-A75D-0509-12D0-AE1AA6EF1F35}|Ex23\\Ex23.csproj|solutionrelative:ex23\\ifrete.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17355C55-0A6F-4022-AD2E-7258F12176DE}|Ex23\\Ex23.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex23\\ex23\\fretenormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17355C55-0A6F-4022-AD2E-7258F12176DE}|Ex23\\Ex23.csproj|solutionrelative:ex23\\fretenormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16668C6C-A75D-0509-12D0-AE1AA6EF1F35}|Ex23\\Ex23.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex23\\ex23\\freteexpresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16668C6C-A75D-0509-12D0-AE1AA6EF1F35}|Ex23\\Ex23.csproj|solutionrelative:ex23\\freteexpresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{17355C55-0A6F-4022-AD2E-7258F12176DE}|Ex23\\Ex23.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex23\\ex23\\freteexpresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{17355C55-0A6F-4022-AD2E-7258F12176DE}|Ex23\\Ex23.csproj|solutionrelative:ex23\\freteexpresso.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{16668C6C-A75D-0509-12D0-AE1AA6EF1F35}|Ex23\\Ex23.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex23\\ex23\\fretenormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{16668C6C-A75D-0509-12D0-AE1AA6EF1F35}|Ex23\\Ex23.csproj|solutionrelative:ex23\\fretenormal.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -26,24 +26,11 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "FreteExpresso.cs",
-              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex23\\Ex23\\FreteExpresso.cs",
-              "RelativeDocumentMoniker": "Ex23\\FreteExpresso.cs",
-              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex23\\Ex23\\FreteExpresso.cs",
-              "RelativeToolTip": "Ex23\\FreteExpresso.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:05:17.537Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
               "Title": "FreteNormal.cs",
               "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex23\\Ex23\\FreteNormal.cs",
               "RelativeDocumentMoniker": "Ex23\\FreteNormal.cs",
@@ -51,8 +38,7 @@
               "RelativeToolTip": "Ex23\\FreteNormal.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-03-25T17:00:56.472Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-03-25T17:00:56.472Z"
             },
             {
               "$type": "Document",
@@ -75,10 +61,22 @@
               "RelativeDocumentMoniker": "Ex23\\Program.cs",
               "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex23\\Ex23\\Program.cs",
               "RelativeToolTip": "Ex23\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABYAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-25T16:54:57.058Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FreteExpresso.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex23\\Ex23\\FreteExpresso.cs",
+              "RelativeDocumentMoniker": "Ex23\\FreteExpresso.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex23\\Ex23\\FreteExpresso.cs",
+              "RelativeToolTip": "Ex23\\FreteExpresso.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-25T17:05:17.537Z"
             }
           ]
         }

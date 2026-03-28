@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>Ex29</id>
+    <version>1.0.0</version>
+    <authors>Ex29</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="d4c55561ad310833be106d1dc20dc3b454b276c6" />
+    <dependencies>
+      <group targetFramework="net10.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\hytal\Desktop\Exercícios C#\POO\Ex29\Ex29\bin\Debug\net10.0\Ex29.runtimeconfig.json" target="lib\net10.0\Ex29.runtimeconfig.json" />
+    <file src="C:\Users\hytal\Desktop\Exercícios C#\POO\Ex29\Ex29\bin\Debug\net10.0\Ex29.dll" target="lib\net10.0\Ex29.dll" />
+  </files>
+</package>

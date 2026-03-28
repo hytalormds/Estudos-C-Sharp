@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex30\\ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|solutionrelative:ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex30\\ex30\\logbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|solutionrelative:ex30\\logbanco.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex30\\ex30\\logarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|solutionrelative:ex30\\logarquivo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex30\\ex30\\logconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|solutionrelative:ex30\\logconsole.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\poo\\ex30\\ex30\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{342DB559-8E0C-4127-9D35-0EFB4744FEE8}|Ex30\\Ex30.csproj|solutionrelative:ex30\\ilogger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LogBanco.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\LogBanco.cs",
+              "RelativeDocumentMoniker": "Ex30\\LogBanco.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\LogBanco.cs",
+              "RelativeToolTip": "Ex30\\LogBanco.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:53:35.342Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "LogArquivo.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\LogArquivo.cs",
+              "RelativeDocumentMoniker": "Ex30\\LogArquivo.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\LogArquivo.cs",
+              "RelativeToolTip": "Ex30\\LogArquivo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:53:15.192Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\Program.cs",
+              "RelativeDocumentMoniker": "Ex30\\Program.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\Program.cs",
+              "RelativeToolTip": "Ex30\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:49:38.497Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "LogConsole.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\LogConsole.cs",
+              "RelativeDocumentMoniker": "Ex30\\LogConsole.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\LogConsole.cs",
+              "RelativeToolTip": "Ex30\\LogConsole.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:52:57.629Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ILogger.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\ILogger.cs",
+              "RelativeDocumentMoniker": "Ex30\\ILogger.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\POO\\Ex30\\Ex30\\ILogger.cs",
+              "RelativeToolTip": "Ex30\\ILogger.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-28T13:50:48.049Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
