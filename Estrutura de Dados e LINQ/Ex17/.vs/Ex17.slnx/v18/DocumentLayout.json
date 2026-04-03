@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex17\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{552955C1-C220-4B3B-A862-9DFA26534A83}|Ex17\\Ex17.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex17\\ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{552955C1-C220-4B3B-A862-9DFA26534A83}|Ex17\\Ex17.csproj|solutionrelative:ex17\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex17\\Ex17\\Program.cs",
+              "RelativeDocumentMoniker": "Ex17\\Program.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex17\\Ex17\\Program.cs",
+              "RelativeToolTip": "Ex17\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-01T12:55:26.481Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
