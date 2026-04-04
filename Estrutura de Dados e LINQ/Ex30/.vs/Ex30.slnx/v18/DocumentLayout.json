@@ -3,12 +3,12 @@
   "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex30\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{81052B76-2E19-4923-8137-D9B31AEE1860}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex30\\ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81052B76-2E19-4923-8137-D9B31AEE1860}|Ex30\\Ex30.csproj|solutionrelative:ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A9F1D80-74EF-0A8B-BFB6-89CCF48A5677}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex30\\ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F1D80-74EF-0A8B-BFB6-89CCF48A5677}|Ex30\\Ex30.csproj|solutionrelative:ex30\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{81052B76-2E19-4923-8137-D9B31AEE1860}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex30\\ex30\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{81052B76-2E19-4923-8137-D9B31AEE1860}|Ex30\\Ex30.csproj|solutionrelative:ex30\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{7A9F1D80-74EF-0A8B-BFB6-89CCF48A5677}|Ex30\\Ex30.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex30\\ex30\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7A9F1D80-74EF-0A8B-BFB6-89CCF48A5677}|Ex30\\Ex30.csproj|solutionrelative:ex30\\produto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,8 +30,7 @@
               "RelativeToolTip": "Ex30\\Produto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-03T01:04:05.428Z",
-              "EditorCaption": ""
+              "WhenOpened": "2026-04-03T01:04:05.428Z"
             },
             {
               "$type": "Document",
@@ -41,7 +40,7 @@
               "RelativeDocumentMoniker": "Ex30\\Program.cs",
               "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex30\\Ex30\\Program.cs",
               "RelativeToolTip": "Ex30\\Program.cs",
-              "ViewState": "AgIAAH8AAAAAAAAAAAAcwIsAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwBEAAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-03T00:59:27.882Z",
               "EditorCaption": ""

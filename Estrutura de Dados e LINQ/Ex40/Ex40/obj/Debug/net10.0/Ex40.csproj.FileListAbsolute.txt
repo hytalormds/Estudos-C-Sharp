@@ -1,0 +1,15 @@
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\bin\Debug\net10.0\Ex40.exe
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\bin\Debug\net10.0\Ex40.deps.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\bin\Debug\net10.0\Ex40.runtimeconfig.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\bin\Debug\net10.0\Ex40.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\bin\Debug\net10.0\Ex40.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\Ex40.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\Ex40.AssemblyInfoInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\Ex40.AssemblyInfo.cs
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\Ex40.csproj.CoreCompileInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\Ex40.sourcelink.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\Ex40.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\refint\Ex40.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\Ex40.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\Ex40.genruntimeconfig.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex40\Ex40\obj\Debug\net10.0\ref\Ex40.dll

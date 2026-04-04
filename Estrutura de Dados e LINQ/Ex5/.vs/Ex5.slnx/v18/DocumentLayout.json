@@ -1,10 +1,10 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados\\Ex5\\",
+  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex5\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{5201AA1D-45B9-4D6E-84C2-342CC1F27CB7}|Ex5\\Ex5.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados\\ex5\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{5201AA1D-45B9-4D6E-84C2-342CC1F27CB7}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{1D29D403-C634-9115-CD67-77D6C9FFD622}|Ex5\\Ex5.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex5\\ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{1D29D403-C634-9115-CD67-77D6C9FFD622}|Ex5\\Ex5.csproj|solutionrelative:ex5\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -20,11 +20,11 @@
               "$type": "Document",
               "DocumentIndex": 0,
               "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados\\Ex5\\Ex5\\Program.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex5\\Ex5\\Program.cs",
               "RelativeDocumentMoniker": "Ex5\\Program.cs",
-              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados\\Ex5\\Ex5\\Program.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex5\\Ex5\\Program.cs",
               "RelativeToolTip": "Ex5\\Program.cs",
-              "ViewState": "AgIAABEAAAAAAAAAAAAIwBkAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-03-29T00:14:32.819Z",
               "EditorCaption": ""

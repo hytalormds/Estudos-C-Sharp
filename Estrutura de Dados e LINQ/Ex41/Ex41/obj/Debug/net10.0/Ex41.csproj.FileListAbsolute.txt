@@ -1,0 +1,15 @@
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\bin\Debug\net10.0\Ex41.exe
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\bin\Debug\net10.0\Ex41.deps.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\bin\Debug\net10.0\Ex41.runtimeconfig.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\bin\Debug\net10.0\Ex41.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\bin\Debug\net10.0\Ex41.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\Ex41.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\Ex41.AssemblyInfoInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\Ex41.AssemblyInfo.cs
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\Ex41.csproj.CoreCompileInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\Ex41.sourcelink.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\Ex41.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\refint\Ex41.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\Ex41.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\Ex41.genruntimeconfig.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex41\Ex41\obj\Debug\net10.0\ref\Ex41.dll

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex45\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{78C0FC63-6A4A-4BE0-895C-8C7E0DE933A9}|Ex45\\Ex45.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex45\\ex45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{78C0FC63-6A4A-4BE0-895C-8C7E0DE933A9}|Ex45\\Ex45.csproj|solutionrelative:ex45\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex45\\Ex45\\Program.cs",
+              "RelativeDocumentMoniker": "Ex45\\Program.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex45\\Ex45\\Program.cs",
+              "RelativeToolTip": "Ex45\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-04T13:29:46.078Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

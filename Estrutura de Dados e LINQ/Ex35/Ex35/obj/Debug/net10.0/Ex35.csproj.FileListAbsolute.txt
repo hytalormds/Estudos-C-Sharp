@@ -1,0 +1,15 @@
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\bin\Debug\net10.0\Ex35.exe
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\bin\Debug\net10.0\Ex35.deps.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\bin\Debug\net10.0\Ex35.runtimeconfig.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\bin\Debug\net10.0\Ex35.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\bin\Debug\net10.0\Ex35.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\Ex35.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\Ex35.AssemblyInfoInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\Ex35.AssemblyInfo.cs
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\Ex35.csproj.CoreCompileInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\Ex35.sourcelink.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\Ex35.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\refint\Ex35.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\Ex35.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\Ex35.genruntimeconfig.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex35\Ex35\obj\Debug\net10.0\ref\Ex35.dll

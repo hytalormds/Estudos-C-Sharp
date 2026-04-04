@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados\\Ex5\\Ex5\\Ex5.csproj": {}
+    "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados e LINQ\\Ex5\\Ex5\\Ex5.csproj": {}
   },
   "projects": {
-    "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados\\Ex5\\Ex5\\Ex5.csproj": {
+    "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados e LINQ\\Ex5\\Ex5\\Ex5.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados\\Ex5\\Ex5\\Ex5.csproj",
+        "projectUniqueName": "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados e LINQ\\Ex5\\Ex5\\Ex5.csproj",
         "projectName": "Ex5",
-        "projectPath": "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados\\Ex5\\Ex5\\Ex5.csproj",
+        "projectPath": "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados e LINQ\\Ex5\\Ex5\\Ex5.csproj",
         "packagesPath": "C:\\Users\\hytal\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados\\Ex5\\Ex5\\obj\\",
+        "outputPath": "C:\\Users\\hytal\\Desktop\\Exercícios C#\\Estrutura de Dados e LINQ\\Ex5\\Ex5\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
