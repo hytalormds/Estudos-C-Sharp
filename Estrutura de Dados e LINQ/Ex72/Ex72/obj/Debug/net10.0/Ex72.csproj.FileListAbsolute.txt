@@ -1,0 +1,15 @@
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\bin\Debug\net10.0\Ex72.exe
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\bin\Debug\net10.0\Ex72.deps.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\bin\Debug\net10.0\Ex72.runtimeconfig.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\bin\Debug\net10.0\Ex72.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\bin\Debug\net10.0\Ex72.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\Ex72.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\Ex72.AssemblyInfoInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\Ex72.AssemblyInfo.cs
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\Ex72.csproj.CoreCompileInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\Ex72.sourcelink.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\Ex72.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\refint\Ex72.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\Ex72.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\Ex72.genruntimeconfig.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex72\Ex72\obj\Debug\net10.0\ref\Ex72.dll

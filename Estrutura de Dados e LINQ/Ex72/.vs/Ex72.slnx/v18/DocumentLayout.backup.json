@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex72\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{7912759B-6374-4E75-9DA0-B03269946B6B}|Ex72\\Ex72.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex72\\ex72\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7912759B-6374-4E75-9DA0-B03269946B6B}|Ex72\\Ex72.csproj|solutionrelative:ex72\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7912759B-6374-4E75-9DA0-B03269946B6B}|Ex72\\Ex72.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\estrutura de dados e linq\\ex72\\ex72\\acao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7912759B-6374-4E75-9DA0-B03269946B6B}|Ex72\\Ex72.csproj|solutionrelative:ex72\\acao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Acao.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex72\\Ex72\\Acao.cs",
+              "RelativeDocumentMoniker": "Ex72\\Acao.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex72\\Ex72\\Acao.cs",
+              "RelativeToolTip": "Ex72\\Acao.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAIAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:51:57.384Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex72\\Ex72\\Program.cs",
+              "RelativeDocumentMoniker": "Ex72\\Program.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\Estrutura de Dados e LINQ\\Ex72\\Ex72\\Program.cs",
+              "RelativeToolTip": "Ex72\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-07T17:51:39.275Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,15 @@
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\bin\Debug\net10.0\Ex47.exe
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\bin\Debug\net10.0\Ex47.deps.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\bin\Debug\net10.0\Ex47.runtimeconfig.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\bin\Debug\net10.0\Ex47.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\bin\Debug\net10.0\Ex47.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\Ex47.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\Ex47.AssemblyInfoInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\Ex47.AssemblyInfo.cs
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\Ex47.csproj.CoreCompileInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\Ex47.sourcelink.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\Ex47.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\refint\Ex47.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\Ex47.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\Ex47.genruntimeconfig.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex47\Ex47\obj\Debug\net10.0\ref\Ex47.dll

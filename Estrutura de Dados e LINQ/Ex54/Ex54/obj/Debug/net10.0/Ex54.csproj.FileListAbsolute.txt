@@ -1,0 +1,15 @@
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\bin\Debug\net10.0\Ex54.exe
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\bin\Debug\net10.0\Ex54.deps.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\bin\Debug\net10.0\Ex54.runtimeconfig.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\bin\Debug\net10.0\Ex54.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\bin\Debug\net10.0\Ex54.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\Ex54.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\Ex54.AssemblyInfoInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\Ex54.AssemblyInfo.cs
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\Ex54.csproj.CoreCompileInputs.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\Ex54.sourcelink.json
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\Ex54.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\refint\Ex54.dll
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\Ex54.pdb
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\Ex54.genruntimeconfig.cache
+C:\Users\hytal\Desktop\Exercícios C#\Estrutura de Dados e LINQ\Ex54\Ex54\obj\Debug\net10.0\ref\Ex54.dll
