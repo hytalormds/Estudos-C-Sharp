@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Jv1q/+xRTdA=",
+  "success": true,
+  "projectFilePath": "C:\\Users\\hytal\\Desktop\\Exercícios C#\\API\\Primeira API\\Primeira API\\Primeira API.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\hytal\\.nuget\\packages\\microsoft.aspnetcore.openapi\\10.0.5\\microsoft.aspnetcore.openapi.10.0.5.nupkg.sha512",
+    "C:\\Users\\hytal\\.nuget\\packages\\microsoft.openapi\\2.0.0\\microsoft.openapi.2.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
