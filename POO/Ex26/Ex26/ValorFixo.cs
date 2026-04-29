@@ -1,4 +1,0 @@
-﻿class ValorFixo : Cupom
-{
-
-}
