@@ -1,9 +1,6 @@
 ﻿using ApiCatalogo.Context;
 using ApiCatalogo.Models;
-//using Microsoft.AspNetCore.Components;
-using Microsoft.AspNetCore.Http;
 using Microsoft.AspNetCore.Mvc;
-using Microsoft.AspNetCore.Mvc.ModelBinding;
 using Microsoft.EntityFrameworkCore;
 
 namespace ApiCatalogo.Controllers
@@ -19,90 +16,70 @@ namespace ApiCatalogo.Controllers
             _context = context;
         }
 
-       // [HttpGet]
-       // public ActionResult<IEnumerable<Produto>> Get()
-        //{
-        //    var produtos = _context.Produtos.ToList();
-        //    if (produtos is null)
-        //    {
-        //        return NotFound("Produtos não encontrados...");
-        //    }
-        //    return produtos;
-        //}
-
+        // 🔹 Listar produtos
         [HttpGet]
-        public async Task<ActionResult<IEnumerable<Produto>>> Get2()
+        public async Task<ActionResult<IEnumerable<Produto>>> Get()
         {
-            return await _context.Produtos.AsNoTracking().ToListAsync();
+            var produtos = await _context.Produtos
+                .AsNoTracking()
+                .ToListAsync();
+
+            return Ok(produtos);
         }
 
-        //[HttpGet("primeiro")]
-        //[HttpGet("/primeiro")]
-        [HttpGet("{valor:alpha:length(5)}")]
-        public ActionResult<Produto> GetPrimeiro(string valor)
-        {
-            var produtos = _context.Produtos.FirstOrDefault();
-            var teste = valor;
-            if (produtos is null)
-            {
-                return NotFound("Produtos não encontrados...");
-            }
-            return produtos;
-        }
-
+        // 🔹 Buscar por ID
         [HttpGet("{id:int}", Name = "ObterProduto")]
-        public async Task<ActionResult<Produto>> Get([FromQuery]int id,[BindRequired] string nome)
+        public async Task<ActionResult<Produto>> Get(int id)
         {
-            var nomeProduto = nome;
+            var produto = await _context.Produtos
+                .AsNoTracking()
+                .FirstOrDefaultAsync(p => p.ProdutoId == id);
 
-            var produto = await _context.Produtos.FirstOrDefaultAsync(p => p.ProdutoId == id);
             if (produto is null)
-            {
-                return NotFound("Produto não encontrado...");
-            }
-            return produto;
-        }
-
-        [HttpPost]
-        public ActionResult Post(Produto produto)
-        {
-            if (produto is null)
-                return BadRequest();
-
-            _context.Produtos.Add(produto);
-            _context.SaveChanges();
-
-            return new CreatedAtRouteResult(
-                "ObterProduto",
-                new { id = produto.ProdutoId },
-                produto
-            );
-        }
-
-        [HttpPut("{id:int}")]
-        public ActionResult Put(int id, Produto produto)
-        {
-            if (id != produto.ProdutoId)
-            {
-                return BadRequest();
-            }
-            _context.Entry(produto).State = Microsoft.EntityFrameworkCore.EntityState.Modified;
-            _context.SaveChanges();
+                return NotFound("Produto não encontrado");
 
             return Ok(produto);
         }
 
-        [HttpDelete("{id:int}")]
-        public ActionResult Delete(int id)
+        // 🔹 Criar
+        [HttpPost]
+        public async Task<ActionResult> Post([FromBody] Produto produto)
         {
-            var produto = _context.Produtos.FirstOrDefault(p => p.ProdutoId == id);
+            if (produto is null)
+                return BadRequest();
+
+            await _context.Produtos.AddAsync(produto);
+            await _context.SaveChangesAsync();
+
+            return CreatedAtRoute("ObterProduto",
+                new { id = produto.ProdutoId }, produto);
+        }
+
+        // 🔹 Atualizar
+        [HttpPut("{id:int}")]
+        public async Task<ActionResult> Put(int id, Produto produto)
+        {
+            if (id != produto.ProdutoId)
+                return BadRequest();
+
+            _context.Entry(produto).State = EntityState.Modified;
+            await _context.SaveChangesAsync();
+
+            return Ok(produto);
+        }
+
+        // 🔹 Deletar
+        [HttpDelete("{id:int}")]
+        public async Task<ActionResult> Delete(int id)
+        {
+            var produto = await _context.Produtos.FindAsync(id);
 
             if (produto is null)
-            {
-                return NotFound("Produto não encontrado...");
-            }
+                return NotFound("Produto não encontrado");
+
             _context.Produtos.Remove(produto);
-            _context.SaveChanges();
+            await _context.SaveChangesAsync();
+
             return Ok(produto);
         }
     }

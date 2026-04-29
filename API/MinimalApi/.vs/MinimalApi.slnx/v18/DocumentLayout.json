@@ -3,8 +3,8 @@
   "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\API\\MinimalApi\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{AE82771F-4681-4B5B-8D18-ADE42E921099}|MinimalApi\\MinimalApi.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\api\\minimalapi\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{AE82771F-4681-4B5B-8D18-ADE42E921099}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalApi\\MinimalApi.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\api\\minimalapi\\minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C6FBFEEE-2D41-BDF9-D30B-37B2CE953581}|MinimalApi\\MinimalApi.csproj|solutionrelative:minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +14,12 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,10 +28,20 @@
               "RelativeDocumentMoniker": "MinimalApi\\Program.cs",
               "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\API\\MinimalApi\\MinimalApi\\Program.cs",
               "RelativeToolTip": "MinimalApi\\Program.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAAACYAAAAoAAAAAAAAAA==",
+              "ViewState": "AgIAABMAAAAAAAAAAABBwCYAAAAoAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-09T13:46:25.444Z",
               "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1370,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
             }
           ]
         }

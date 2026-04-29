@@ -97,9 +97,19 @@
         "IsRequired": true
       }
     ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "ApiCatalogo.Controllers.CategoriasController",
+    "Method": "GetValores",
+    "RelativePath": "api/Categorias/config",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "ApiCatalogo.Models.Categoria",
+        "Type": "System.String",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -130,8 +140,34 @@
     ]
   },
   {
+    "ContainingType": "ApiCatalogo.Controllers.CategoriasController",
+    "Method": "GetSaudacao",
+    "RelativePath": "api/Categorias/saudacao/{nome}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "nome",
+        "Type": "System.String",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": [
+      {
+        "Type": "System.String",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
     "ContainingType": "ApiCatalogo.Controllers.ProdutosController",
-    "Method": "Get2",
+    "Method": "Get",
     "RelativePath": "api/Produtos",
     "HttpMethod": "GET",
     "IsController": true,
@@ -176,11 +212,6 @@
       {
         "Name": "id",
         "Type": "System.Int32",
-        "IsRequired": true
-      },
-      {
-        "Name": "nome",
-        "Type": "System.String",
         "IsRequired": true
       }
     ],
@@ -233,31 +264,5 @@
       }
     ],
     "ReturnTypes": []
-  },
-  {
-    "ContainingType": "ApiCatalogo.Controllers.ProdutosController",
-    "Method": "GetPrimeiro",
-    "RelativePath": "api/Produtos/{valor}",
-    "HttpMethod": "GET",
-    "IsController": true,
-    "Order": 0,
-    "Parameters": [
-      {
-        "Name": "valor",
-        "Type": "System.String",
-        "IsRequired": true
-      }
-    ],
-    "ReturnTypes": [
-      {
-        "Type": "ApiCatalogo.Models.Produto",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
   }
 ]

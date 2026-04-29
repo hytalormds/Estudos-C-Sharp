@@ -1,0 +1,68 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\MVC\\MVC_2026\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE33ABC-66C3-2C9B-45C2-971382B6A682}|MVC_2026\\MVC_2026.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\mvc\\mvc_2026\\mvc_2026\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE33ABC-66C3-2C9B-45C2-971382B6A682}|MVC_2026\\MVC_2026.csproj|solutionrelative:mvc_2026\\repositories\\categoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9DE33ABC-66C3-2C9B-45C2-971382B6A682}|MVC_2026\\MVC_2026.csproj|c:\\users\\hytal\\desktop\\exerc\u00EDcios c#\\mvc\\mvc_2026\\mvc_2026\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9DE33ABC-66C3-2C9B-45C2-971382B6A682}|MVC_2026\\MVC_2026.csproj|solutionrelative:mvc_2026\\repositories\\interfaces\\icategoriarepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 1,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\MVC\\MVC_2026\\MVC_2026\\Repositories\\CategoriaRepository.cs",
+              "RelativeDocumentMoniker": "MVC_2026\\Repositories\\CategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\MVC\\MVC_2026\\MVC_2026\\Repositories\\CategoriaRepository.cs",
+              "RelativeToolTip": "MVC_2026\\Repositories\\CategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T23:24:45.355Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ICategoriaRepository.cs",
+              "DocumentMoniker": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\MVC\\MVC_2026\\MVC_2026\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeDocumentMoniker": "MVC_2026\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "ToolTip": "C:\\Users\\hytal\\Desktop\\Exerc\u00EDcios C#\\MVC\\MVC_2026\\MVC_2026\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "RelativeToolTip": "MVC_2026\\Repositories\\Interfaces\\ICategoriaRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-28T23:19:09.99Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedHeight": 249,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

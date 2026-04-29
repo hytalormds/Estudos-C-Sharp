@@ -5,6 +5,74 @@
     "version": "1.0"
   },
   "paths": {
+    "/api/Categorias/config": {
+      "get": {
+        "tags": [
+          "Categorias"
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
+    "/api/Categorias/saudacao/{nome}": {
+      "get": {
+        "tags": [
+          "Categorias"
+        ],
+        "parameters": [
+          {
+            "name": "nome",
+            "in": "path",
+            "required": true,
+            "schema": {
+              "type": "string"
+            }
+          }
+        ],
+        "responses": {
+          "200": {
+            "description": "OK",
+            "content": {
+              "text/plain": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "application/json": {
+                "schema": {
+                  "type": "string"
+                }
+              },
+              "text/json": {
+                "schema": {
+                  "type": "string"
+                }
+              }
+            }
+          }
+        }
+      }
+    },
     "/api/Categorias/produtos": {
       "get": {
         "tags": [
@@ -207,24 +275,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/Categoria"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Categoria"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Categoria"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -296,48 +347,6 @@
         }
       }
     },
-    "/api/Produtos/{valor}": {
-      "get": {
-        "tags": [
-          "Produtos"
-        ],
-        "parameters": [
-          {
-            "name": "valor",
-            "in": "path",
-            "required": true,
-            "schema": {
-              "maxLength": 5,
-              "minLength": 5,
-              "pattern": "^[A-Za-z]*$",
-              "type": "string"
-            }
-          }
-        ],
-        "responses": {
-          "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/Produto"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Produto"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/Produto"
-                }
-              }
-            }
-          }
-        }
-      }
-    },
     "/api/Produtos/{id}": {
       "get": {
         "tags": [
@@ -352,14 +361,6 @@
             "schema": {
               "type": "integer",
               "format": "int32"
-            }
-          },
-          {
-            "name": "nome",
-            "in": "query",
-            "required": true,
-            "schema": {
-              "type": "string"
             }
           }
         ],
@@ -496,22 +497,24 @@
             "format": "int32"
           },
           "nome": {
-            "maxLength": 80,
-            "minLength": 0,
+            "maxLength": 20,
+            "minLength": 5,
             "type": "string"
           },
           "descricao": {
-            "maxLength": 300,
+            "maxLength": 10,
             "minLength": 0,
             "type": "string"
           },
           "preco": {
+            "maximum": 10000,
+            "minimum": 1,
             "type": "number",
             "format": "double"
           },
           "imageUrl": {
             "maxLength": 300,
-            "minLength": 0,
+            "minLength": 10,
             "type": "string"
           },
           "estoque": {
